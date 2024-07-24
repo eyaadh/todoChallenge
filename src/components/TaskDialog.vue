@@ -46,7 +46,7 @@
                   class="inline-flex justify-center rounded-md border border-transparent bg-todo-light-bg px-8 py-2 text-sm font-medium text-white hover:bg-todo-light-bg/80 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
                   @click="addTask"
                 >
-                  Add
+                  save
                 </button>
               </DialogTitle>
               <div class="mt-6 w-full">
