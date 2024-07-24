@@ -15,6 +15,9 @@
       and icons.</p>
     <p>The primary objective of this iteration of the app is to showcase the responsive design capabilities of Tailwind
       CSS, as well as to demonstrate foundational Vue.js concepts.</p>
+
+    <p>Source code for the project can be found on <a href="https://github.com/eyaadh/todoChallenge" class="underline"
+                                                      target="_blank">this github repository.</a></p>
     <RouterLink to="/" class=" ">
       <div class="flex gap-2 mt-4 font-bold items-center -ml-4">
         <ChevronDoubleLeftIcon class="h-4"/>
